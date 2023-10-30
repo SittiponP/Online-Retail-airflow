@@ -1,0 +1,4 @@
+include/gcp/
+include/soda/configuration.yml
+airflow_settings.yaml
+dbt/
