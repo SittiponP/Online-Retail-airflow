@@ -3,3 +3,4 @@ include/soda/configuration.yml
 airflow_settings.yaml
 dbt/
 .DS_Store
+dags/__pycache__/
